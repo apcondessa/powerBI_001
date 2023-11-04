@@ -6,6 +6,8 @@
 
 #Dashboard link Project 2: https://app.powerbi.com/view?=eyJrIjoiMTM0ZWMwYTItZWFhYy00NGQ0LThlN2QtNjdmZTUyOTUyNWUwIiwidCI6IjIzYmFhNGQyLTM2YWUtNDU2Yi04OWI5LTJhZjdiMmY4ODkwZiJ9#
 
+#Dashboard link Project 3: https://app.powerbi.com/view?r=eyJrIjoiOGYzZTFkMjEtZjY3NS00MzhhLWFjYzUtMGU2ZDYxNGZiZjI0IiwidCI6IjIzYmFhNGQyLTM2YWUtNDU2Yi04OWI5LTJhZjdiMmY4ODkwZiJ9#
+
 #Certifications#
 
 #Alura Power BI Desktop#
