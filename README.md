@@ -1,5 +1,7 @@
-# Power BI code #
-# Description: Power BI dashboards demonstrations as training samples and showing know-how of the tool #
+# Power BI Project#
+
+# Description:#
+#Power BI dashboards demonstrations as training samples and showing know-how of the tool#
 
 #Dashboard link Project 1: https://app.powerbi.com/links/an6hB24Fzt?ctid=23baa4d2-36ae-456b-89b9-2af7b2f8890f&pbi_source=linkShare#
 
