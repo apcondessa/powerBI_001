@@ -15,9 +15,9 @@
 
 #https://cursos.alura.com.br/certificate/f671b806-817d-46f1-a7ca-228291e9b96d?lang=en#
 
-# Recode certifications#
+#Recode certifications#
 
-# Análise_de_Dados_com_ferramentas_de_Business_Intelligence#
-# Universo_dos_Dados# 
+#Análise_de_Dados_com_ferramentas_de_Business_Intelligence#
+#Universo_dos_Dados# 
 #Both can be found at my LinkdIN Profile:# 
 #URL LINK: https://www.linkedin.com/in/anapaulacondessa/?#
