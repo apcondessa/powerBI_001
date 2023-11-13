@@ -6,7 +6,7 @@
   </head>
   <body>
     <header> 
-  <h1>Description:Power BI dashboards demonstrations as training samples and showing know-how of the tool</h1>
+  <h1>Description: Power BI dashboards demonstrations as training samples and showing know-how of the tool</h1>
     </header>
 
   <p>Dashboard link Project 1: https://app.powerbi.com/links/an6hB24Fzt?ctid=23baa4d2-36ae-456b-89b9-2af7b2f8890f&pbi_source=linkShare#</p>
