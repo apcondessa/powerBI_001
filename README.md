@@ -2,7 +2,7 @@
 <html lang="pt-br">
 	<head>
    <meta charset="UTF-8">
-		<title>Power BI Project</title>
+	<title>Power BI Project</title>
   </head>
   <body>
     <header> 
